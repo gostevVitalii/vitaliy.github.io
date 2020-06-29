@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(224, 204, 148);
+    font-family: courier;
+}
+#element {
+    margin: 100px 30%;
+    font-size: 30px;
+}
